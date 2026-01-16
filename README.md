@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hanuman</h1>
-<h3 align="center">Frontend Developer | Backend Developer | AI & ML Enthusiast</h3>
+<h3 align="center">Frontend Developer | Backend Developer | AI & ML Enthusiast | Python Programmer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;AI+and+Machine+Learning+Learner;Open+Source+Enthusiast" />
@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **Web Development & AI Projects**
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 - 💬 Ask me about **Python, JavaScript, React, NodeJS**
-- 📫 Reach me at: **godarahanuman896@gmail.com**
+- 📫 Reach me at: **hanumangoadar@gmail.com**
 - ⚡ Fun fact: I love solving coding problems
 
 ---
