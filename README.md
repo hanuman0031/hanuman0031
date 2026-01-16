@@ -1,8 +1,25 @@
-<h1 align="center">Hi 👋, I'm Hanuman</h1>
-<h3 align="center">Frontend Developer | Backend Developer | AI & ML Enthusiast | Python Programmer</h3>
+<h1 align="center">
+  Hi 👋, I'm Hanuman 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+</h1>
+
+<h3 align="center">Python Programmer | Full Stack Developer | AI & ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;AI+and+Machine+Learning+Learner;Open+Source+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=750&lines=Python+Programmer;Full+Stack+Developer;AI+and+Machine+Learning+Enthusiast;Building+Smart+and+Scalable+Applications;Open+Source+Contributor;Problem+Solver+%26+Tech+Explorer" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
 </p>
 
 ---
