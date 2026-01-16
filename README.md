@@ -26,4 +26,18 @@ I love coding and building projects.
 
 ---
 
+### 📊 GitHub Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanuman0031&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanuman0031)
+
+
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Good-yellow)
+
+### 🔗 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/hanuman-godara-36943b387/
+- Email: godarahanuman896@gmail.com
+  
 Thanks for visiting my profile!
