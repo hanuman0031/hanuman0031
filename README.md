@@ -1,43 +1,78 @@
-# Hi, I'm Hanuman 👋
-
-I am a Developer from India.
-I love coding and building projects.
 <h1 align="center">Hi 👋, I'm Hanuman</h1>
+<h3 align="center">Frontend Developer | Backend Developer | AI & ML Enthusiast</h3>
 
-<h3 align="center">Frontend Developer | Backend Developer | AI Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;AI+and+Machine+Learning+Learner;Open+Source+Enthusiast" />
+</p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on Web Development  
-- 🌱 I’m learning AI and Machine Learning  
-- 💬 Ask me about Python, JavaScript  
-- 📫 Reach me at: godarahanuman896@gmail.com  
+- 🔭 I’m currently working on **Web Development & AI Projects**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+- 💬 Ask me about **Python, JavaScript, React, NodeJS**
+- 📫 Reach me at: **godarahanuman896@gmail.com**
+- ⚡ Fun fact: I love solving coding problems
 
 ---
 
-### 🛠 Skills
+### 🚀 Tech Stack
 
-- Programming: Python, JavaScript  
-- Frontend: HTML, CSS, React  
-- Backend: NodeJS  
-- Database: MySQL, MongoDB  
+#### Languages
+![Python](https://img.shields.io/badge/-Python-blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![Java](https://img.shields.io/badge/-Java-red)
+
+#### Frontend
+![HTML](https://img.shields.io/badge/-HTML-orange)
+![CSS](https://img.shields.io/badge/-CSS-blue)
+![React](https://img.shields.io/badge/-React-blue)
+
+#### Backend
+![NodeJS](https://img.shields.io/badge/-NodeJS-green)
+![Express](https://img.shields.io/badge/-Express-lightgrey)
+
+#### Database
+![MongoDB](https://img.shields.io/badge/-MongoDB-green)
+![MySQL](https://img.shields.io/badge/-MySQL-blue)
 
 ---
 
 ### 📊 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanuman0031&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanuman0031)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hanuman0031&show_icons=true&theme=radical" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanuman0031&layout=compact&theme=radical" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-Expert-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Good-yellow)
+---
 
-### 🔗 Connect with me
+### 🔥 GitHub Streak
 
-- LinkedIn: https://www.linkedin.com/in/hanuman-godara-36943b387/
-- Email: godarahanuman896@gmail.com
-  
-Thanks for visiting my profile!
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hanuman-godara-36943b387/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue" />
+  </a>
+  <a href="https://github.com/hanuman0031">
+    <img src="https://img.shields.io/badge/GitHub-black" />
+  </a>
+  <a href="mailto:godarahanuman896@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red" />
+  </a>
+</p>
+
+---
+
+⭐️ From **Hanuman**
