@@ -39,23 +39,8 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanuman0031&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanuman0031&layout=compact&theme=radical" />
-</p>
 
 ---
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
-</p>
 
 ---
 
@@ -75,4 +60,4 @@
 
 ---
 
-⭐️ From **Hanuman**
+⭐️ Thanks For Visiting
