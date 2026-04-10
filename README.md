@@ -61,7 +61,7 @@
 <a href="https://github.com/Hanuman0031">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/its_hanuman_.00/">
+<a href="https://www.instagram.com/its_hanuman_.05/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
