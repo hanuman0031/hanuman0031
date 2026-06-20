@@ -20,7 +20,7 @@
 - 🔭 I’m currently working on **Web Development & AI Projects**
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 - 💬 Ask me about **Python, JavaScript, React, NodeJS**
-- 📫 Reach me at: **hanumangoadar@gmail.com**
+- 📫 Reach me at: **hanumangodara795@gmail.com**
 - ⚡ Fun fact: I love solving coding problems
 
 ---
